@@ -1,0 +1,4 @@
+-Menentukan jenis web yang akan dibuat
+-Menyiapkan data-data yang ingin ditampilkan
+-menggunakan source code hmtl untuk membuat kerangka dasar (sambil belajar)
+-menggunakan CSS untuk membantu meperindah tampilannya
